@@ -9,3 +9,4 @@ else{
     console.log("じじばば");
 }
 console.log("判定終了");
+console.log("Hello world");
